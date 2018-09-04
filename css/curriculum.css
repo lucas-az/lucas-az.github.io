@@ -366,6 +366,10 @@ h6 {
     right: 5px;
   }
 
+  .header img {
+    border: 5px solid var(--color-accent);
+  }
+
   .left-side {
     margin-right: 20px;
     margin-bottom: 0;
