@@ -400,6 +400,10 @@ h6 {
 }
 
 @media (max-width: 460px) {
+  body {
+    background-color: #fff;
+  }
+
   .container {
     font-size: 0.9em;
     width: 100%;
